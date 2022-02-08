@@ -7,10 +7,6 @@ body {
     display: flex;
     flex-direction: column;
 }
-.flex-container div {
-       
-    
-}
 .one {
     background-color: #1F2937;    
 }
